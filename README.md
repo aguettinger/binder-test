@@ -1,3 +1,3 @@
 # binder-test
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aguettinger/binder-test/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aguettinger/binder-test/main?urlpath=rstudio)
